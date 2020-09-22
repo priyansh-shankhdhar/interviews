@@ -5,6 +5,9 @@ Now to use this:
   1) dowload the the_file.py
   2) include it in your file
   3) then we have to write 3 lines of code:
-      #>>>d=interview() #instantiate the interview class
-      #>>>d.run() #this might take a few moment maybe a minute or two
-      #>>>d.pred(dataset) # in this dataset is the the dataset for which you want to predict , this return a dataset of people to give interview.
+      
+      >>>d=interview() #instantiate the interview class
+      
+      >>>d.run() #this might take a few moment maybe a minute or two
+      
+      >>>d.pred(dataset) # in this dataset is the the dataset for which you want to predict , this return a dataset of people to give interview.
