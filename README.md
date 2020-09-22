@@ -5,6 +5,8 @@ Now to use this:
   1) dowload the the_file.py
   2) include it in your file
   3) then we have to write 3 lines of code:
+  
+      >>>import the_file.py
       
       >>>d=interview() #instantiate the interview class
       
